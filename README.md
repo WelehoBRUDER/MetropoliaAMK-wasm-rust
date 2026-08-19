@@ -1,0 +1,2 @@
+# MetropoliaAMK-wasm-rust
+
